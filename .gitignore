@@ -1,3 +1,7 @@
 s ~$*
 .DS_Store
- Thumbs.db
+$*.xlsx 
+Thumbs.db
+$*.xlsm
+$*.docx
+$*.pptx
