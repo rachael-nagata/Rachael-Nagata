@@ -1,5 +1,5 @@
 ## Hi I'm Rachael Nagata 
-I am a senior at the University of Hawaii at Manoa, Shidler College of Business. I am double majoring in International Business and Marketing. I am from Oahu, Hawaii and I am drawn to Marketing and International Business, because the psychology behind why consumers make the decisions that they do has always interested me, and I have interest in working at an international company. 
+I am a senior at the University of Hawaii at Manoa, Shidler College of Business. I am double majoring in International Business and Marketing. I am from Oahu, Hawaii and I am drawn to Marketing and International Business because the psychology behind why consumers make the decisions that they do has always interested me, and I have interest in working at an international company. 
 
 Right now I am building skills in data analytics, CRM and automation, and content strategy. As a marketing and claims intern at HEMIC, my main focus was event planning and marketing execution for the company's largest annual foundation event, a charity golf tournament benefiting the National Kidney Foundation of Hawaii. I designed the signage, banners, and promotional materials used throughout the event, making sure the branding reflected the foundation's mission. I also built and launched email marketing campaigns that earned a 58% open rate and a 6.3% click-through rate.
 
