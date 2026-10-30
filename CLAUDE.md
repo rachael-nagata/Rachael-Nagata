@@ -1,1 +1,1 @@
-read AGENTS.md
+See AGENTS.md for all conventions.
