@@ -5,3 +5,6 @@ Right now I am building skills in data analytics, CRM and automation, and conten
 
 I am especially interested in the East Asian beauty industry, and am looking for a role in beauty marketing, brand management, or event and  experiential marketing where I can bring event planning and email marketing experience to launches and customer engagement. Outside of class, I play volleyball and stay active, and I like following what's trending on TikTok.
 Drafted with help from Claude (Anthropic, 2026); reviewed and edited by me.
+## Engagements
+
+- [Resume](RESUME.md)
