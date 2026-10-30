@@ -4,7 +4,7 @@ AI conventions
 This is Rachael Nagata's portfolio repository. Canonical file: AGENTS.md. CLAUDE.md points here.
 
 ## Who I am
- IB and Marketing student from Oʻahu and am senior standing. I am interested in consumer psychology, beauty marketing and brand management. Hoping to work at a global brand one day.
+ IB and Marketing student from Oʻahu. Senior standing. I am interested in consumer psychology, beauty marketing and brand management. Hoping to work at a global brand one day.
 
 ## Where things are
 - capabilities/   what I can do, each backed by an example
