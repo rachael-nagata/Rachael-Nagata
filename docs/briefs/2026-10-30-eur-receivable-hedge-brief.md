@@ -7,4 +7,5 @@ If the euro falls from $1.10 to $1.00 which is about a 9% fall, we would receive
 A forward is a contract today where you know exactly what you will get because it locks in the exchange rate for our euros in one year, but the downside is that if the euro gets stronger over that time period, you will not benefit. For example if the locked rate were 1.10 you would receive $4,950,000 no matter what happens to th euro.
 A money-market hedge lets us borrow euros and convert them to dollars. The benefit is that it gives the same certainty as a forward. The downside is it is complex and uses up our ability to borrow.
 A put option protects us by giving us insurance. The benefit is protection from a fall while we still keep any gain if the euro rises, but the downside is we pay a fee regardless.
-
+## What I am Assuming
+We assume a bank will give us a forward or option at a fair price. We assume the customer pays in full. We assume that the euros arrive on time in one year. If I had more time, I would test that the customer pays in full first. 
