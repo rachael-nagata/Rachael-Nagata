@@ -38,3 +38,4 @@ After any session that changed a file, add one entry to prompt-log.md: date, wha
 
 ## Mistakes to avoid (append to this list)
 - When you tell me how to move a file on GitHub, check that the slash makes a folder and not one long filename with a space.
+- Check my scenario email before starting any work.
