@@ -13,3 +13,5 @@ We assume a bank will give us a forward or option at a fair price. We assume the
 I expect the forward to leave us with the most dollars if the euro falls below about 1.10, because the bank still pays us the higher rate we agreed on. I expect unhedged to win if the euro rises above that, because the forward makes us give up the gain. This is assuming the forward rate is close to today’s rate.
 ## How I would identify I was wrong 
 I would be wrong if the model showed unhedged leaving us with fewer dollars than the forward when the euro rises above 1.10, if the bank’s forward rate were much higher than we assumed.
+## Next Steps 
+Before we recommend anything, we will follow a four-step process. First, we will plan and design the workbook. Next, we will ask an AI to build, then proofread it with a human in the loop, to catch any errors. Then, we will add in the real market data, using real interest and exchange rates. Finally, we will validate the results by double checking them and then make our recommendation.
