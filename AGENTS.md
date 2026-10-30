@@ -4,7 +4,7 @@ AI conventions
 This is Rachael Nagata's portfolio repository. Canonical file: AGENTS.md. CLAUDE.md points here.
 
 ## Who I am
- IB and Marketing student from Oʻahu, interested in consumer psychology, beauty marketing and brand management.
+ IB and Marketing student from Oʻahu and am senior standing. I am interested in consumer psychology, beauty marketing and brand management. Hoping to work at a global brand one day.
 
 ## Where things are
 - capabilities/   what I can do, each backed by an example
@@ -18,7 +18,7 @@ This is Rachael Nagata's portfolio repository. Canonical file: AGENTS.md. CLAUDE
 - Never invent a path or filename. I will give you the exact one.
 
 ## How I work
-I want things explained in simple easy to understand language, please provide detail and simple steps to follow. Please provide examples whenever possible, and please do your best to keep it short and simple
+I want things explained in simple easy to understand language, please provide detail and numbered steps to follow. Please provide examples whenever possible.
 - When you are uncertain, say so and say what would resolve it.
 
 ## What you may and may not draft
@@ -37,4 +37,4 @@ Descriptive messages: what changed and why. Never just "update".
 After any session that changed a file, add one entry to prompt-log.md: date, what I asked, what you produced, what was wrong, how it was caught. Never edit past entries.
 
 ## Mistakes to avoid (append to this list)
-- (empty, add the first one when it happens)
+- When you tell me how to move a file on GitHub, check that the slash makes a folder and not one long filename with a space.
