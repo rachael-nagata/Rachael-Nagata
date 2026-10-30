@@ -1,7 +1,7 @@
 ~$*
 .DS_Store
-$*.xlsx 
+~*.xlsx 
 Thumbs.db
-$*.xlsm
-$*.docx
-$*.pptx
+~$*.xlsm
+~$*.docx
+~$*.pptx
