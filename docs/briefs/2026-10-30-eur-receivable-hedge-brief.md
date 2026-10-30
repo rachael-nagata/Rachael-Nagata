@@ -11,3 +11,5 @@ A put option protects us by giving us insurance. The benefit is protection from 
 We assume a bank will give us a forward or option at a fair price. We assume the customer pays in full. We assume that the euros arrive on time in one year. If I had more time, I would test that the customer pays in full first. 
 ## Hypothesis 
 I expect the forward to leave us with the most dollars if the euro falls below about 1.10, because the bank still pays us the higher rate we agreed on. I expect unhedged to win if the euro rises above that, because the forward makes us give up the gain. This is assuming the forward rate is close to today’s rate.
+## How I would identify I was wrong 
+I would be wrong if the model showed unhedged leaving us with fewer dollars than the forward when the euro rises above 1.10, if the bank’s forward rate were much higher than we assumed.
