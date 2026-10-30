@@ -10,9 +10,9 @@ A money-market hedge lets us borrow euros and convert them to dollars. The benef
 
 A put option protects us by giving us insurance. The benefit is protection from a fall while we still keep any gain if the euro rises, but the downside is we pay a fee regardless.
 ## What I am Assuming
-We assume a bank will give us a forward or option at a fair price. We assume the customer pays in full. We assume that the euros arrive on time in one year. If I had more time, I would test that the customer pays in full first. 
+We assume a bank will give us a forward or option at a fair price. We assume the French publisher pays in full. We assume that the euros arrive on time in six months. If I had more time, I would test that the customer pays in full first. 
 ## Hypothesis 
-We expect the forward to leave us with the most dollars if the euro falls below about 1.10, because the bank still pays us the higher rate we agreed on. We expect unhedged to win if the euro rises above that, because the forward makes us give up the gain. This is assuming the forward rate is close to today’s rate.
+We expect the forward to leave us with the most dollars if the euro falls below about 1.1705, because the bank still pays us the higher rate we agreed on. We expect unhedged to win if the euro rises above that, because the forward makes us give up the gain. Today’s spot rate is about 1.12 and the forward is 1.1705, so the forward starts out about 5 cents above spot.
 ## How I Would Know I Was Wrong 
 I would be wrong if the model showed unhedged leaving us with fewer dollars than the forward when the euro rises above 1.10, if the bank’s forward rate were much higher than we assumed.
 ## Next Steps 
