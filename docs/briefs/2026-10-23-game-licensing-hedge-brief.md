@@ -15,7 +15,7 @@ If the euro falls from $1.12 to $1.07 over the 182 days, we would receive $2,782
 ## The Three Hedge Tools
 A forward is a contract today where we know exactly what we will get because it locks in the exchange rate for our euros in about 6 months, but the downside is that if the euro gets stronger over that time period, we will not benefit. Our scenario's indicative forward is EURUSD 1.1705. so we would receive $3,043,300 no matter what happens to the euro. 
 
-A money-market hedge lets us borrow euros and convert them to dollars. After the conversion we can then use the dollars to invest them at the U.S. rate. The benefit is that it gives the same certainty as a forward. The downside is it is complex and uses up our ability to borrow.
+A money-market hedge lets us borrow euros and convert them to dollars. After the conversion we can then use the dollars to invest at the U.S. rate. When the publisher pays EUR 2,600,000, we use it to repay the euro loan plus interest. The benefit is that it gives the same certainty as a forward. The downside is it is complex and uses up our ability to borrow.
 
 A put option protects us by giving us insurance. The benefit is protection from a fall while we still keep any gain if the euro rises, but the downside is we pay about $50,440 up front regardless.
 ## What I am Assuming
