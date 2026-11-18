@@ -1,10 +1,13 @@
 ---
+title: Game Licensing Hedge Brief
+scenario: game-licensing
+llm_used: Claude
 type: brief
 engagement: fx-hedging
 capability: fx-hedging
 date: 2026-10-23
 status: committed
-hypothesis: "I expect the forward to leave us with the most dollars if the euro ends below 1.1705, because the forward rate gives us a better rate than the market."
+hypothesis: "We expect the forward to leave us with the most dollars if the euro ends below 1.1705, because the forward rate gives us a better rate than the market."
 ---
 
 ## The Exposure
@@ -21,8 +24,8 @@ A put option protects us by giving us insurance. The benefit is protection from 
 ## What I am Assuming
 We assume a bank will give us a forward or option at a fair price. We assume the French publisher pays in full. We assume that the euros arrive on time in six months. If I had more time, I would test that the French publisher pays in full first. 
 ## Hypothesis 
-We expect the forward to leave us with the most dollars if the euro falls below about 1.1705, because the bank still pays us the higher rate we agreed on. We expect unhedged to win if the euro rises above that, because the forward makes us give up the gain. Today’s spot rate is about 1.12 and the forward is 1.1705, so the forward starts out about 5 cents above spot. The spot rate was from Google, on Oct 30.
-## How I Would Know I Was Wrong 
-I would be wrong if the model showed the forward rate leaving us with fewer dollars than unhedged at an end rate below the 1.1705 which would mean I am wrong if the model shows another hedge gives more dollars than the forward’s $3,043,300 at an exchange rate that could realistically happen in the next 182 day.
-## Next Steps
-Before we recommend anything, we will follow a four-step process. First in stage 1, we will plan and design the workbook. Next, we will move on to stage 2, ask an AI to build, then proofread it with a human in the loop to catch any errors. In stage 3, we will add in the real market data, using real interest and exchange rates. Lastly in stage 4, we will validate the results by double checking them and then make our recommendation.
+We expect the forward to leave us with the most dollars if the euro ends below about 1.1705, because the bank still pays us the higher rate we agreed on. We expect unhedged to win if the euro rises above that, because the forward makes us give up the gain. Today’s spot rate is about 1.12 and the forward is 1.1705, so the forward starts out about 5 cents above spot. The spot rate was from Google, on Oct 30.
+## How We Would Know We Were Wrong 
+We would be wrong if the model returns more than $3,043,300 for the put option (after subtracting the $50,440 premium), or more than $3,048,300 for the money-market hedge, at any end rate between 1.07 and 1.17. That is the range we treat as realistic over the next 182 days. Either result would show the forward was not the best choice for EUR 2,600,000.
+
+Before we recommend anything, we will go through a four stage process. First in stage 1, we will plan and design the workbook. Next, we will move on to stage 2, ask an AI to build, then proofread it with a human in the loop to catch any errors. In stage 3, we will add in the real market data, using real interest and exchange rates. Lastly in stage 4, we will validate the results by double checking them and then make our recommendation.
