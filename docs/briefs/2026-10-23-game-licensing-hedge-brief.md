@@ -25,4 +25,4 @@ We expect the forward to leave us with the most dollars if the euro falls below 
 ## How I Would Know I Was Wrong 
 I would be wrong if the model showed the forward rate leaving us with fewer dollars than unhedged at an end rate below the 1.1705 which would mean the model was built incorrectly.
 ## Next Steps
-Before we recommend anything, we will follow a four-step process. First, we will plan and design the workbook. Next, we will ask an AI to build, then proofread it with a human in the loop, to catch any errors. Then, we will add in the real market data, using real interest and exchange rates. Finally, we will validate the results by double checking them and then make our recommendation.
+Before we recommend anything, we will follow a four-step process. First in stage 1, we will plan and design the workbook. Next, we will move on to stage 2, ask an AI to build, then proofread it with a human in the loop to catch any errors. In stage 3, we will add in the real market data, using real interest and exchange rates. Lastly in stage 4, we will validate the results by double checking them and then make our recommendation.
